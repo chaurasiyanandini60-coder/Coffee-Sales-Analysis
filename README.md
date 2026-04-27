@@ -33,5 +33,9 @@ The dataset contains:
 - Improve performance of low-selling items  
 - Optimize inventory based on demand
 
+- ## 📸 Dashboard Preview
+- <img width="915" height="515" alt="Linked inn 1 " src="https://github.com/user-attachments/assets/bdf2c760-c2f1-4df6-8ad5-416f7fb4202b" />
+<img width="910" height="510" alt="Linekd inn 2" src="https://github.com/user-attachments/assets/ca453846-534c-4264-ab72-c2c4bdb4dc85" />
+
 ## 🔹 Conclusion
 This project demonstrates how data analysis can be used to understand sales trends and support data-driven decision-making.
