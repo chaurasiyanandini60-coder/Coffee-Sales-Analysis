@@ -32,6 +32,6 @@ The dataset contains:
 - Promote high-performing products  
 - Improve performance of low-selling items  
 - Optimize inventory based on demand
-  
+
 ## 🔹 Conclusion
 This project demonstrates how data analysis can be used to understand sales trends and support data-driven decision-making.
