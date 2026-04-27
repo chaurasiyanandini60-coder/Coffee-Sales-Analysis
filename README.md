@@ -13,7 +13,7 @@ The dataset contains:
 - Sales revenue and quantity  
 - Store locations  
 - Time-based (hourly) sales data
-- 
+
 ## 📊 Dashboard Highlights
 - Key Performance Indicators (KPIs): Total Sales, Orders, Quantity  
 - Sales by Product Category  
